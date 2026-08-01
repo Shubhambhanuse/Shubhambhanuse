@@ -185,7 +185,7 @@ Convert Excel spreadsheets into PDF while preserving formatting.
 
 ---
 
-## 🌐 Connect With Me
+
 
 ## 🌐 Connect With Me
 
