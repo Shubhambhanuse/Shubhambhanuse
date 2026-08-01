@@ -1,18 +1,19 @@
 <div align="center">
 
-# Hi there 👋 I'm Shubham Bhanuse
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:2563EB&text=Shubham%20Bhanuse&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20(AI%20%26%20ML)%20Student%20|%20Python%20Developer&descAlignY=58"/>
 
-### 🚀 Computer Engineering (AI & ML) Student | Python Developer | Machine Learning Enthusiast
+# 👋 Hello, I'm Shubham Bhanuse
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BA3FF&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Web+Developer;Always+Learning+New+Things"/>
+### 🚀 Computer Engineering (AI & ML) Student • Python Developer • Machine Learning Enthusiast
 
 <p align="center">
+
 <a href="https://github.com/Shubhambhanuse">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-bhanuse-319900337">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -21,24 +22,25 @@
 
 ---
 
-# 👨‍💻 About Me
+# 💡 About Me
 
 🎓 Computer Engineering (AI & ML) Student
 
-💡 Passionate about building software that solves real-world problems.
+💻 Passionate about developing intelligent applications using AI, Machine Learning and Python.
 
-## 🌱 Currently Learning
-
-- 🤖 Machine Learning
-- 🧠 Reinforcement Learning
-- 🚀 Deep Learning
-- 📊 Data Science
-- 🐍 Python
-- 🛡 Cybersecurity
-
-## 💻 Interests
+🌱 Currently learning
 
 - Artificial Intelligence
+- Machine Learning
+- Reinforcement Learning
+- Deep Learning
+- Data Science
+- Cybersecurity
+
+🚀 Interested in
+
+- Python Development
+- AI Applications
 - Web Development
 - Open Source
 - Software Engineering
@@ -48,19 +50,47 @@
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,javascript,mysql"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
-## 🌐 Web Development
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,php,mysql"/>
+### Web Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
 </p>
 
-## 📊 AI & Data Science
+---
+
+### AI & Data Science
 
 <p>
 
@@ -74,10 +104,22 @@
 
 </p>
 
-## ⚙️ Tools
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux"/>
+### Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 </p>
 
 ---
@@ -86,22 +128,25 @@
 
 ## 🔋 Battery Manufacturing Management System
 
-A complete ERP system developed using **PHP & MySQL**.
+**Tech Stack:** PHP • MySQL • HTML • CSS • JavaScript
 
-### Features
+✔ Production Management
 
-- Production Management
-- Inventory Management
-- Sales & Billing
-- Employee Attendance
-- Expense Tracking
-- Dashboard & Reports
+✔ Inventory Tracking
+
+✔ Employee Attendance
+
+✔ Sales & Billing
+
+✔ Expense Management
+
+✔ Dashboard & Reports
 
 ---
 
 ## 🛡 Web Defender Pro
 
-Python Flask based Website Security Vulnerability Scanner.
+Python Flask Website Security Vulnerability Scanner.
 
 ### Features
 
@@ -119,37 +164,39 @@ Convert Excel spreadsheets into PDF while preserving formatting.
 
 ---
 
-## 🤖 Machine Learning Projects
+## 🤖 Machine Learning
 
 - Reinforcement Learning
 - Regression Models
 - Classification Models
 - Data Analysis
+- Model Evaluation
 
 ---
 
-# 🌱 Currently Exploring
+# 📚 Currently Exploring
 
 - Reinforcement Learning
-- Deep Learning
 - Generative AI
+- Deep Learning
+- Computer Vision
 - Advanced Python
 - Data Structures & Algorithms
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Shubhambhanuse">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shubham-bhanuse-319900337">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
 </a>
 
 </div>
@@ -158,11 +205,15 @@ Convert Excel spreadsheets into PDF while preserving formatting.
 
 <div align="center">
 
-### 🌟 Let's Build Something Amazing Together!
+### 📧 Let's Connect
 
-💻 **GitHub:** https://github.com/Shubhambhanuse
+**GitHub**
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/shubham-bhanuse-319900337
+https://github.com/Shubhambhanuse
+
+**LinkedIn**
+
+https://www.linkedin.com/in/shubham-bhanuse-319900337
 
 </div>
 
@@ -170,10 +221,12 @@ Convert Excel spreadsheets into PDF while preserving formatting.
 
 <div align="center">
 
-## 💭 Quote
+# 💭 Favorite Quote
 
-> **"Success is built one line of code at a time."**
+### *"Turning ideas into intelligent solutions through continuous learning and innovation."*
 
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2563EB,50:1E3A8A,100:0F172A"/>
