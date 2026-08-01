@@ -187,23 +187,20 @@ Convert Excel spreadsheets into PDF while preserving formatting.
 
 ## 🌐 Connect With Me
 
-<p align="center"> <a href="https://github.com/Shubhambhanuse"> <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github"/> </a> 
+## 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://github.com/Shubhambhanuse"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shubham-bhanuse-319900337"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55"/></a>
+
+</p>
 <br>
 
 <div align="center">
 
-### 📧 Let's Connect
 
-**GitHub**
-
-https://github.com/Shubhambhanuse
-
-**LinkedIn**
-
-https://www.linkedin.com/in/shubham-bhanuse-319900337
-
-</div>
 
 ---
 
